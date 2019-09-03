@@ -1,0 +1,166 @@
+{
+    "stageName": "level32",
+    "map": [
+        {
+            "shapeType": "circle",
+            "x": 170,
+            "y": 255,
+            "radius": 16,
+            "options": {
+                "label": "collision",
+                "restitution": 1,
+                "isStatic": true,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 152,
+            "y": 317,
+            "sides": 2,
+            "radius": 23,
+            "options": {
+                "label": "collision",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "circle",
+            "x": 185,
+            "y": 202,
+            "radius": 25,
+            "options": {
+                "label": "other",
+                "restitution": 1,
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 187,
+            "y": 260,
+            "sides": 5,
+            "radius": 23,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 155,
+            "y": 210,
+            "sides": 3,
+            "radius": 22,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 184,
+            "y": 249,
+            "sides": 2,
+            "radius": 36,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 139,
+            "y": 189,
+            "sides": 2,
+            "radius": 45,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 148,
+            "y": 167,
+            "width": 34,
+            "height": 37,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "circle",
+            "x": 196,
+            "y": 295,
+            "radius": 19,
+            "options": {
+                "label": "other",
+                "restitution": 0.1,
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 113,
+            "y": 205,
+            "sides": 6,
+            "radius": 16,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 111,
+            "y": 368,
+            "sides": 2,
+            "radius": 43,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "blocker",
+            "x": 100,
+            "y": 200,
+            "width": 200,
+            "height": 300
+        }
+    ]
+}

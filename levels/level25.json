@@ -1,0 +1,152 @@
+{
+    "stageName": "level25",
+    "map": [
+        {
+            "shapeType": "polygon",
+            "x": 246,
+            "y": 105,
+            "sides": 5,
+            "radius": 26,
+            "options": {
+                "label": "collision",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 108.999,
+            "y": 330,
+            "sides": 6,
+            "radius": 22,
+            "options": {
+                "label": "collision",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 181,
+            "y": 233,
+            "width": 117,
+            "height": 130,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 194,
+            "y": 366,
+            "width": 52,
+            "height": 162,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 81,
+            "y": 363,
+            "sides": 5,
+            "radius": 43,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 172,
+            "y": 222,
+            "sides": 3,
+            "radius": 26,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 184,
+            "y": 256,
+            "sides": 2,
+            "radius": 46,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 130,
+            "y": 315,
+            "sides": 6,
+            "radius": 11,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 123,
+            "y": 374,
+            "sides": 5,
+            "radius": 33,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "circle",
+            "x": 155,
+            "y": 239,
+            "radius": 16,
+            "options": {
+                "label": "other",
+                "restitution": 0.4,
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "blocker",
+            "x": 0,
+            "y": 100,
+            "width": 300,
+            "height": 310
+        }
+    ]
+}

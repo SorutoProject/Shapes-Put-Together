@@ -1,0 +1,36 @@
+{
+    "stageName": "level1",
+    "map": [
+        {
+            "shapeType": "rectangle",
+            "x": 50,
+            "y": 100,
+            "width": 50,
+            "height": 50,
+            "options": {
+                "label": "collision",
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        }, {
+            "shapeType": "rectangle",
+            "x": 200,
+            "y": 300,
+            "width": 50,
+            "height": 50,
+            "options": {
+                "label": "collision",
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },{
+            "shapeType":"blocker",
+            "x":180,
+            "y":0,
+            "width":120,
+            "height":500
+        }
+    ]
+}

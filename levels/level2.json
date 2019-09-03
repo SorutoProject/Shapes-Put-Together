@@ -1,0 +1,50 @@
+{
+    "stageName": "level2",
+    "map": [
+        {
+            "shapeType": "circle",
+            "x": 50,
+            "y": 50,
+            "radius":20,
+            "options": {
+                "label": "collision",
+                "restitution":0.9,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        }, {
+            "shapeType": "rectangle",
+            "x": 240,
+            "y": 100,
+            "width":50,
+            "height":50,
+            "options": {
+                "label": "collision",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },{
+            "shapeType":"blocker",
+            "x":150,
+            "y":0,
+            "width":150,
+            "height":500
+        },{
+            "shapeType":"rectangle",
+            "x":100,
+            "y":100,
+            "width":30,
+            "height":450,
+            "options":{
+                "render":{
+                    "label":"wallLeft",
+                    "fillStyle":"#0080ff"
+                },
+                "isStatic":true
+            }
+        }
+    ]
+}

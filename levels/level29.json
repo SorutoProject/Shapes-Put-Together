@@ -1,0 +1,166 @@
+{
+    "stageName": "level29",
+    "map": [
+        {
+            "shapeType": "polygon",
+            "x": 120,
+            "y": 313,
+            "sides": 6,
+            "radius": 30,
+            "options": {
+                "label": "collision",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 141,
+            "y": 56,
+            "width": 145,
+            "height": 112,
+            "options": {
+                "label": "collision",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 117,
+            "y": 308,
+            "sides": 6,
+            "radius": 37,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 183,
+            "y": 398,
+            "sides": 2,
+            "radius": 28,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 193,
+            "y": 398,
+            "sides": 2,
+            "radius": 32,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 103,
+            "y": 196,
+            "sides": 6,
+            "radius": 15,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 167,
+            "y": 298,
+            "sides": 2,
+            "radius": 21,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 146,
+            "y": 156,
+            "width": 94,
+            "height": 175,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "circle",
+            "x": 112,
+            "y": 214,
+            "radius": 25,
+            "options": {
+                "label": "other",
+                "restitution": 0.8,
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 151,
+            "y": 384,
+            "sides": 5,
+            "radius": 23,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "circle",
+            "x": 161,
+            "y": 383,
+            "radius": 10,
+            "options": {
+                "label": "other",
+                "restitution": 1,
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "blocker",
+            "x": 100,
+            "y": 300,
+            "width": 200,
+            "height": 200
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "stageName": "level14",
+    "map": [
+        {
+            "shapeType": "polygon",
+            "x": 188,
+            "y": 316,
+            "sides": 2,
+            "radius": 37,
+            "options": {
+                "label": "collision",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 149,
+            "y": 396,
+            "sides": 5,
+            "radius": 29,
+            "options": {
+                "label": "collision",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": "#f00"
+                }
+            }
+        },
+        {
+            "shapeType": "circle",
+            "x": 180,
+            "y": 219,
+            "radius": 13,
+            "options": {
+                "label": "other",
+                "restitution": 0.1,
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 152,
+            "y": 253,
+            "width": 102,
+            "height": 123,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 118,
+            "y": 183,
+            "sides": 2,
+            "radius": 43,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 148,
+            "y": 315,
+            "sides": 6,
+            "radius": 18,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 146,
+            "y": 292,
+            "sides": 6,
+            "radius": 28,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 101,
+            "y": 301,
+            "sides": 5,
+            "radius": 12,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "rectangle",
+            "x": 155,
+            "y": 232,
+            "width": 56,
+            "height": 175,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 119,
+            "y": 394,
+            "sides": 2,
+            "radius": 35,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 164,
+            "y": 245,
+            "sides": 5,
+            "radius": 10,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 167,
+            "y": 356,
+            "sides": 6,
+            "radius": 32,
+            "options": {
+                "label": "other",
+                "isStatic": true,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "polygon",
+            "x": 166,
+            "y": 134,
+            "sides": 2,
+            "radius": 22,
+            "options": {
+                "label": "other",
+                "isStatic": false,
+                "render": {
+                    "fillStyle": ""
+                }
+            }
+        },
+        {
+            "shapeType": "blocker",
+            "x": 150,
+            "y": 0,
+            "width": 150,
+            "height": 500
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "spt",
+    "version": "1.0.0",
+    "main": "index.html",
+    "window": {
+        "show_in_taskbar": true,
+        "resizable":false,
+        "width": 530,
+        "height": 570
+    }
+}
