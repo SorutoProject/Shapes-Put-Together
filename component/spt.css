@@ -1,5 +1,6 @@
 body{
   background:#ccc;
+  font-family: 'メイリオ', Meiryo,'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 canvas{
   background:#fff !important;
