@@ -1,3 +1,7 @@
+body{
+    font-family: 'メイリオ', Meiryo,'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
+}
+
 #mainFrame{
     position: absolute;
     top:0;
